@@ -10,5 +10,8 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "all-lights": {
+    "value": "light on"
   }
 }
